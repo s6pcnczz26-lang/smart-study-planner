@@ -1,0 +1,3 @@
+Programming|Python Functions|Monday|60.0
+Cybersecurity|Network Security|Tuesday|120.0
+Mathematics|Sets|Wednesday|30.0
